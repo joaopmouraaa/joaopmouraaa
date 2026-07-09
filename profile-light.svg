@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="600" viewBox="0 0 985 600" role="img" aria-labelledby="title desc">
   <title id="title">João Rosa — perfil de builder</title>
   <desc id="desc">Um terminal com retrato em ASCII e informações sobre João Rosa, builder de produtos, agentes e automações com IA.</desc>
   <style>
-    .ascii, .line { font-family: monospace; font-size: 16px; white-space: pre; }
+    .ascii, .line { font-family: monospace; font-size: 14px; white-space: pre; }
     .ascii { fill: #24292f; }
     .text { fill: #24292f; }
     .muted { fill: #57606a; }
@@ -11,8 +11,8 @@
     .value { fill: #0969da; }
     .accent { fill: #1a7f37; }
   </style>
-  <rect width="1200" height="620" rx="16" fill="#f6f8fa"/>
-  <rect x="1" y="1" width="1198" height="618" rx="15" fill="none" stroke="#d0d7de"/>
+  <rect width="985" height="600" rx="16" fill="#f6f8fa"/>
+  <rect x="1" y="1" width="983" height="598" rx="15" fill="none" stroke="#d0d7de"/>
   <text class="ascii" x="30" y="48">
     <tspan x="30" y="48">:::--:::----------:.:-------:.:::---==-:-::</tspan>
     <tspan x="30" y="67">::.:--------------=---------. +%@@*##:-:::.</tspan>
@@ -45,27 +45,27 @@
     <tspan x="30" y="580">#:.:----=-:::....::--:-::::::.....::::..+%@</tspan>
   </text>
 
-  <text class="line text" x="535" y="48"><tspan class="accent">joao@github</tspan><tspan class="muted"> ───────────────────────────────────</tspan></text>
-  <text class="line" x="535" y="76"><tspan class="muted">· </tspan><tspan class="key">Role</tspan><tspan class="muted">: .............................. </tspan><tspan class="value">Product builder</tspan></text>
-  <text class="line" x="535" y="98"><tspan class="muted">· </tspan><tspan class="key">Focus</tspan><tspan class="muted">: .............. </tspan><tspan class="value">Applied AI, agents, automation</tspan></text>
-  <text class="line" x="535" y="120"><tspan class="muted">· </tspan><tspan class="key">Mode</tspan><tspan class="muted">: ................... </tspan><tspan class="value">Build in public</tspan></text>
-  <text class="line" x="535" y="142"><tspan class="muted">· </tspan><tspan class="key">Base</tspan><tspan class="muted">: ........................... </tspan><tspan class="value">Belo Horizonte, BR</tspan></text>
-  <text class="line" x="535" y="164"><tspan class="muted">· </tspan><tspan class="key">Stack</tspan><tspan class="muted">: ................. </tspan><tspan class="value">TypeScript, Python, React</tspan></text>
-  <text class="line" x="535" y="186"><tspan class="muted">· </tspan><tspan class="key">Languages</tspan><tspan class="muted">: ...................... </tspan><tspan class="value">PT-BR, English</tspan></text>
+  <text class="line text" x="420" y="48"><tspan class="accent">joao@github</tspan><tspan class="muted"> ───────────────────────────────────</tspan></text>
+  <text class="line" x="420" y="76"><tspan class="muted">· </tspan><tspan class="key">Role</tspan><tspan class="muted">: .............................. </tspan><tspan class="value">Product builder</tspan></text>
+  <text class="line" x="420" y="98"><tspan class="muted">· </tspan><tspan class="key">Focus</tspan><tspan class="muted">: .............. </tspan><tspan class="value">Applied AI, agents, automation</tspan></text>
+  <text class="line" x="420" y="120"><tspan class="muted">· </tspan><tspan class="key">Mode</tspan><tspan class="muted">: ................... </tspan><tspan class="value">Build in public</tspan></text>
+  <text class="line" x="420" y="142"><tspan class="muted">· </tspan><tspan class="key">Base</tspan><tspan class="muted">: ........................... </tspan><tspan class="value">Belo Horizonte, BR</tspan></text>
+  <text class="line" x="420" y="164"><tspan class="muted">· </tspan><tspan class="key">Stack</tspan><tspan class="muted">: ................. </tspan><tspan class="value">TypeScript, Python, React</tspan></text>
+  <text class="line" x="420" y="186"><tspan class="muted">· </tspan><tspan class="key">Languages</tspan><tspan class="muted">: ...................... </tspan><tspan class="value">PT-BR, English</tspan></text>
 
-  <text class="line text" x="535" y="230"><tspan class="accent">- Story</tspan><tspan class="muted"> ──────────────────────────────────────────</tspan></text>
-  <text class="line" x="535" y="258"><tspan class="muted">· </tspan><tspan class="key">Foundation</tspan><tspan class="muted">: ............... </tspan><tspan class="value">Computer Science @ PUC Minas</tspan></text>
-  <text class="line" x="535" y="280"><tspan class="muted">· </tspan><tspan class="key">Now</tspan><tspan class="muted">: ....... </tspan><tspan class="value">Ideas → products &amp; operations</tspan></text>
-  <text class="line" x="535" y="302"><tspan class="muted">· </tspan><tspan class="key">Method</tspan><tspan class="muted">: .............. </tspan><tspan class="value">Test, ship, document, improve</tspan></text>
-  <text class="line" x="535" y="324"><tspan class="muted">· </tspan><tspan class="key">Open to</tspan><tspan class="muted">: ......... </tspan><tspan class="value">Product &amp; AI collaborations</tspan></text>
+  <text class="line text" x="420" y="230"><tspan class="accent">- Story</tspan><tspan class="muted"> ──────────────────────────────────────────</tspan></text>
+  <text class="line" x="420" y="258"><tspan class="muted">· </tspan><tspan class="key">Foundation</tspan><tspan class="muted">: ............... </tspan><tspan class="value">Computer Science @ PUC Minas</tspan></text>
+  <text class="line" x="420" y="280"><tspan class="muted">· </tspan><tspan class="key">Now</tspan><tspan class="muted">: ....... </tspan><tspan class="value">Ideas → products &amp; operations</tspan></text>
+  <text class="line" x="420" y="302"><tspan class="muted">· </tspan><tspan class="key">Method</tspan><tspan class="muted">: .............. </tspan><tspan class="value">Test, ship, document, improve</tspan></text>
+  <text class="line" x="420" y="324"><tspan class="muted">· </tspan><tspan class="key">Open to</tspan><tspan class="muted">: ......... </tspan><tspan class="value">Product &amp; AI collaborations</tspan></text>
 
-  <text class="line text" x="535" y="368"><tspan class="accent">- Links</tspan><tspan class="muted"> ──────────────────────────────────────────</tspan></text>
-  <text class="line" x="535" y="396"><tspan class="muted">· </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: ................................ </tspan><tspan class="value">joaopmouraaa</tspan></text>
-  <text class="line" x="535" y="418"><tspan class="muted">· </tspan><tspan class="key">X</tspan><tspan class="muted">: ..................................... </tspan><tspan class="value">@joaopmouraa</tspan></text>
+  <text class="line text" x="420" y="368"><tspan class="accent">- Links</tspan><tspan class="muted"> ──────────────────────────────────────────</tspan></text>
+  <text class="line" x="420" y="396"><tspan class="muted">· </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: ................................ </tspan><tspan class="value">joaopmouraaa</tspan></text>
+  <text class="line" x="420" y="418"><tspan class="muted">· </tspan><tspan class="key">X</tspan><tspan class="muted">: ..................................... </tspan><tspan class="value">@joaopmouraa</tspan></text>
 
-  <text class="line text" x="535" y="462"><tspan class="accent">- GitHub</tspan><tspan class="muted"> ─────────────────────────────────────────</tspan></text>
-  <text class="line" x="535" y="490"><tspan class="muted">· </tspan><tspan class="key">Repos</tspan><tspan class="muted">: ............................. </tspan><tspan class="value">26 public</tspan></text>
-  <text class="line" x="535" y="512"><tspan class="muted">· </tspan><tspan class="key">Followers</tspan><tspan class="muted">: ................................. </tspan><tspan class="value">2</tspan></text>
-  <text class="line" x="535" y="534"><tspan class="muted">· </tspan><tspan class="key">Signal</tspan><tspan class="muted">: .............. </tspan><tspan class="value">Building useful things, in public</tspan></text>
-  <text class="line" x="535" y="556"><tspan class="muted">· </tspan><tspan class="key">Profile</tspan><tspan class="muted">: ....................... </tspan><tspan class="value">github.com/joaopmouraaa</tspan></text>
+  <text class="line text" x="420" y="462"><tspan class="accent">- GitHub</tspan><tspan class="muted"> ─────────────────────────────────────────</tspan></text>
+  <text class="line" x="420" y="490"><tspan class="muted">· </tspan><tspan class="key">Repos</tspan><tspan class="muted">: ............................. </tspan><tspan class="value">26 public</tspan></text>
+  <text class="line" x="420" y="512"><tspan class="muted">· </tspan><tspan class="key">Followers</tspan><tspan class="muted">: ................................. </tspan><tspan class="value">2</tspan></text>
+  <text class="line" x="420" y="534"><tspan class="muted">· </tspan><tspan class="key">Signal</tspan><tspan class="muted">: .............. </tspan><tspan class="value">Building useful things, in public</tspan></text>
+  <text class="line" x="420" y="556"><tspan class="muted">· </tspan><tspan class="key">Profile</tspan><tspan class="muted">: ....................... </tspan><tspan class="value">github.com/joaopmouraaa</tspan></text>
 </svg>
